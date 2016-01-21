@@ -3,7 +3,7 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
-paginate: 5
+#paginate: 5
 port: 4000
 safe: true
 url: http://biomadeira.github.io/resume
